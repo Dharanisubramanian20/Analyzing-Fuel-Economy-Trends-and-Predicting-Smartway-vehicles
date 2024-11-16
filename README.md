@@ -46,12 +46,17 @@ Developing a regression model to predict City MPG using the best features identi
 # Results
 
 Model Comparison for SmartWay Certification: Presenting accuracy, precision, recall, and F1-score for both Logistic Regression and Decision Tree models.
+
 City MPG Prediction: Evaluating the regression model based on Mean Squared Error (MSE) and R-squared values.
 
 # Visualizations
 
-Creating detailed visualizations to communicate key insights and trends:
+# Creating detailed visualizations to communicate key insights and trends:
+
 Unique models using alternative fuels over the years.
+
 Improvement in fuel economy across different vehicle classes.
+
 Characteristics and changes of SmartWay vehicles over time.
+
 Features associated with better fuel economy.
